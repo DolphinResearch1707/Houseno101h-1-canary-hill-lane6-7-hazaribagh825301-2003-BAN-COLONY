@@ -1,0 +1,23 @@
+Single_Actual;
+Double_Delta;
+//run the net as it is on training data;
+//and get the error;
+system.out.print;
+actual=recognize(i1;i2;i3);
+error=geterror(actual,anticipated);
+//adjust weight1
+delta=trainingfunction(rate,i1,error);
+w1+=delta;
+//adjust=weight 2;
+delta=trainingfunctionRate,i1,error);
+//adjust weight 3;
+delta=trainingfunction(rate,i3,error);
+present pattern(0,o,1,o);
+epoch++;
+}
+delta.delta=New Delta();
+deltarun();2003-2006;Verify;Highwaypatrol;
+}
+}
+}
+}
